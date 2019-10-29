@@ -1,0 +1,17 @@
+{
+  "name": "to-spring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stomp/stompjs": "^5.4.2",
+    "express": "^4.17.1",
+    "sockjs-client": "^1.4.0",
+    "websocket": "^1.0.30"
+  }
+}
